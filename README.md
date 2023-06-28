@@ -11,7 +11,7 @@ Im a Analysis and system development student at Universidade do Vale do Rio dos 
 ------------------------------------------------------------------------
 
 
-### Socials :
+### Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-ritter-dias-083631262/) 
 
 
