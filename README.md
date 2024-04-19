@@ -16,8 +16,12 @@ I will continue to seek to always improve my knowledge, seek challenges that tak
 
 -----------------------------------------------------------------------------
 
-### Used Languages
-Java - HTML - CSS - JavaScript - SQL
+### Principal Stack
+Javascript - HTML - CSS - PHP
+
+### Secondary Stack
+Java - Node.js - SQL
+
 ------------------------------------------------------------------------
 
 
