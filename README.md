@@ -18,9 +18,9 @@ I will continue to always seek to improve my knowledge, seek challenges that tak
 
 Stack:
 - JavaScript (+React +Vue +Swiper)
--PHP (+Laravel)
--HTML
--CSS (+BootStrap)
+- PHP (+Laravel)
+- HTML
+- CSS (+BootStrap)
 - SQL (MySQL)
 ------------------------------------------------------------------------
 
